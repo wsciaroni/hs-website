@@ -1,0 +1,317 @@
+
+Online Giving, Hispanic Ministries, Knights of Columbus, Diocese of Birmingham 
+
+
+Menu Stuff ###################################
+                                    <li><a href="index.html">Home</a></li>
+                                    <li><a href="#">Pages</a>
+                                        <ul class="dropdown">
+                                            <li><a href="index.html">Home</a></li>
+                                            <li><a href="ministries.html">Ministries</a></li>
+                                            <li><a href="sermons.html">Sermons</a></li>
+                                            <li><a href="blog.html">Blog</a></li>
+                                            <li><a href="contact.html">Contact</a></li>
+                                            <li><a href="elements.html">Elements</a></li>
+                                            <li><a href="#">Dropdown</a>
+                                                <ul class="dropdown">
+                                                    <li><a href="index.html">Home</a></li>
+                                                    <li><a href="ministries.html">Ministries</a></li>
+                                                    <li><a href="sermons.html">Sermons</a></li>
+                                                    <li><a href="blog.html">Blog</a></li>
+                                                    <li><a href="contact.html">Contact</a></li>
+                                                    <li><a href="elements.html">Elements</a></li>
+                                                    <li><a href="#">Dropdown</a>
+                                                        <ul class="dropdown">
+                                                            <li><a href="index.html">Home</a></li>
+                                                            <li><a href="ministries.html">Ministries</a></li>
+                                                            <li><a href="sermons.html">Sermons</a></li>
+                                                            <li><a href="blog.html">Blog</a></li>
+                                                            <li><a href="contact.html">Contact</a></li>
+                                                            <li><a href="elements.html">Elements</a></li>
+                                                        </ul>
+                                                    </li>
+                                                </ul>
+                                            </li>
+                                        </ul>
+                                    </li>
+                                    <li><a href="ministries.html">Ministries</a></li>
+                                    <li><a href="sermons.html">Sermons</a></li>
+                                    <li><a href="contact.html">Contact</a></li>
+##############################################
+
+Next Event:
+<!-- Top Header Area -->
+        <div class="top-header">
+            <div class="container h-100">
+                <div class="row h-100">
+                    <div class="col-12 h-100">
+                        <div class="top-header-content h-100 d-flex align-items-center justify-content-end">
+                            <!-- Next Events Countdown -->
+                            <div class="next-events-countdown d-flex align-items-center">
+                                <p>Next Big Event:</p>
+                                <div class="events-cd" data-countdown="2022/01/01"></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+
+
+            <!-- ##### Church Activities Area Start ##### -->
+    <section class="church-activities-area section-padding-100-0">
+        <div class="container">
+            <div class="row">
+                <div class="col-12">
+                    <div class="section-heading text-center mx-auto">
+                        <img src="img/core-img/cross.png" alt="">
+                        <h3>Church Activities</h3>
+                        <p>Donec quis metus ac arcu luctus accumsan. Nunc in justo tincidunt, sodales nunc id, finibus nibh.</p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col-12 col-lg-6">
+                    <!-- Upcoming Events -->
+                    <div class="upcoming-events mb-100">
+                        <!-- Headline -->
+                        <div class="headline">
+                            <h5>Upcoming Events</h5>
+                        </div>
+
+                        <!-- Single Upcoming Events -->
+                        <div class="single-upcoming-events d-flex align-items-center">
+                            <!-- Events Date & Thumbnail -->
+                            <div class="event-date-thumbnail d-flex align-items-center">
+                                <div class="event-date">
+                                    <h6>03 <br> Jun <br> 2018</h6>
+                                </div>
+                                <div class="event-thumbnail bg-img" style="background-image: url(img/bg-img/event1.jpg);"></div>
+                            </div>
+                            <!-- Events Content -->
+                            <div class="events-content">
+                                <a href="#">
+                                    <h6>Weekend Bible Study with believers</h6>
+                                </a>
+                                <p>8:00 pm @ Main hall</p>
+                            </div>
+                        </div>
+
+                        <!-- Single Upcoming Events -->
+                        <div class="single-upcoming-events d-flex align-items-center">
+                            <!-- Events Date & Thumbnail -->
+                            <div class="event-date-thumbnail d-flex align-items-center">
+                                <div class="event-date">
+                                    <h6>09 <br> Jun <br> 2018</h6>
+                                </div>
+                                <div class="event-thumbnail bg-img" style="background-image: url(img/bg-img/event2.jpg);"></div>
+                            </div>
+                            <!-- Events Content -->
+                            <div class="events-content">
+                                <a href="#">
+                                    <h6>Bible Study for Childrens</h6>
+                                </a>
+                                <p>8:00 pm @ Main hall</p>
+                            </div>
+                        </div>
+
+                        <!-- Single Upcoming Events -->
+                        <div class="single-upcoming-events d-flex align-items-center">
+                            <!-- Events Date & Thumbnail -->
+                            <div class="event-date-thumbnail d-flex align-items-center">
+                                <div class="event-date">
+                                    <h6>11 <br> Jun <br> 2018</h6>
+                                </div>
+                                <div class="event-thumbnail bg-img" style="background-image: url(img/bg-img/event3.jpg);"></div>
+                            </div>
+                            <!-- Events Content -->
+                            <div class="events-content">
+                                <a href="#">
+                                    <h6>Weekend Bible Study with believers</h6>
+                                </a>
+                                <p>8:00 pm @ Main hall</p>
+                            </div>
+                        </div>
+
+                        <!-- Single Upcoming Events -->
+                        <div class="single-upcoming-events d-flex align-items-center">
+                            <!-- Events Date & Thumbnail -->
+                            <div class="event-date-thumbnail d-flex align-items-center">
+                                <div class="event-date">
+                                    <h6>25 <br> Jun <br> 2018</h6>
+                                </div>
+                                <div class="event-thumbnail bg-img" style="background-image: url(img/bg-img/event4.jpg);"></div>
+                            </div>
+                            <!-- Events Content -->
+                            <div class="events-content">
+                                <a href="#">
+                                    <h6>Bible Study for Childrens</h6>
+                                </a>
+                                <p>8:00 pm @ Main hall</p>
+                            </div>
+                        </div>
+
+                        <div class="all-events-btn">
+                            <a href="#" class="btn faith-btn active">See All Events</a>
+                        </div>
+
+                    </div>
+                </div>
+                <div class="col-12 col-lg-6">
+                    <!-- Latest Sermons -->
+                    <div class="latest-sermons mb-100">
+                        <div class="headline">
+                            <h5>Latest Sermons</h5>
+                        </div>
+
+                        <!-- Single Sermons Area -->
+                        <div class="single-sermons">
+                            <div class="sermons-content d-flex align-items-center">
+                                <!-- Sermons Thumbnail -->
+                                <div class="sermons-thumbnail bg-img" style="background-image: url(img/bg-img/ser1.jpg);"></div>
+                                <!-- Sermons Content -->
+                                <div class="sermons-text">
+                                    <a href="#">
+                                        <h6>Weekend Bible Study with believers</h6>
+                                    </a>
+                                    <p>By Priest Michael Smith</p>
+                                    <p class="date">02 April, 2018</p>
+                                </div>
+                            </div>
+                            <div class="sermons-audio-player d-flex align-items-center">
+                                <audio preload="auto" controls>
+                                    <source src="audio/dummy-audio.mp3">
+                                </audio>
+                                <div class="see-more-btn">
+                                    <a href="#">See More</a>
+                                </div>
+                            </div>
+                        </div>
+
+                        <!-- Single Sermons Area -->
+                        <div class="single-sermons">
+                            <div class="sermons-content d-flex align-items-center">
+                                <!-- Sermons Thumbnail -->
+                                <div class="sermons-thumbnail bg-img" style="background-image: url(img/bg-img/ser2.jpg);"></div>
+                                <!-- Sermons Content -->
+                                <div class="sermons-text">
+                                    <a href="#">
+                                        <h6>Weekend Bible Study with believers</h6>
+                                    </a>
+                                    <p>By Priest Michael Smith</p>
+                                    <p class="date">02 April, 2018</p>
+                                </div>
+                            </div>
+                            <div class="sermons-audio-player d-flex align-items-center">
+                                <audio preload="auto" controls>
+                                    <source src="audio/dummy-audio.mp3">
+                                </audio>
+                                <div class="see-more-btn">
+                                    <a href="#">See More</a>
+                                </div>
+                            </div>
+                        </div>
+
+                        <!-- Single Sermons Area -->
+                        <div class="single-sermons">
+                            <div class="sermons-content d-flex align-items-center">
+                                <!-- Sermons Thumbnail -->
+                                <div class="sermons-thumbnail bg-img" style="background-image: url(img/bg-img/ser3.jpg);"></div>
+                                <!-- Sermons Content -->
+                                <div class="sermons-text">
+                                    <a href="#">
+                                        <h6>Weekend Bible Study with believers</h6>
+                                    </a>
+                                    <p>By Priest Michael Smith</p>
+                                    <p class="date">02 April, 2018</p>
+                                </div>
+                            </div>
+                            <div class="sermons-audio-player d-flex align-items-center">
+                                <audio preload="auto" controls>
+                                    <source src="audio/dummy-audio.mp3">
+                                </audio>
+                                <div class="see-more-btn">
+                                    <a href="#">See More</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- ##### Church Activities Area End ##### -->
+
+
+        <!-- ##### Blog Area Start ##### -->
+    <div class="faith-blog-area section-padding-100-0">
+        <div class="container">
+            <div class="row">
+                <div class="col-12">
+                    <div class="section-heading text-center mx-auto">
+                        <img src="img/core-img/cross.png" alt="">
+                        <h3>Latest News</h3>
+                        <p>Donec quis metus ac arcu luctus accumsan. Nunc in justo tincidunt, sodales nunc id, finibus nibh.</p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="row">
+
+                <!-- Single Blog Area -->
+                <div class="col-12 col-lg-4">
+                    <div class="single-blog-area mb-100">
+                        <div class="blog-thumbnail">
+                            <img src="img/blog-img/1.jpg" alt="">
+                            <div class="post-date">
+                                <a href="#">03 April, 2018</a>
+                            </div>
+                        </div>
+                        <div class="blog-content">
+                            <a href="#" class="blog-title">New Community rules</a>
+                            <p>Fusce nec ante vitae lacus aliquet vulp utate. Donec scelerisque accumsan molestie. Vestibulum ante ipsum primis.</p>
+                            <a href="#" class="readmore-btn">Read More</a>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Single Blog Area -->
+                <div class="col-12 col-lg-4">
+                    <div class="single-blog-area mb-100">
+                        <div class="blog-thumbnail">
+                            <img src="img/blog-img/2.jpg" alt="">
+                            <div class="post-date">
+                                <a href="#">03 April, 2018</a>
+                            </div>
+                        </div>
+                        <div class="blog-content">
+                            <a href="#" class="blog-title">A perfect afternoon at church</a>
+                            <p>Fusce nec ante vitae lacus aliquet vulp utate. Donec scelerisque accumsan molestie. Vestibulum ante ipsum primis.</p>
+                            <a href="#" class="readmore-btn">Read More</a>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Single Blog Area -->
+                <div class="col-12 col-lg-4">
+                    <div class="single-blog-area mb-100">
+                        <div class="blog-thumbnail">
+                            <img src="img/blog-img/3.jpg" alt="">
+                            <div class="post-date">
+                                <a href="#">03 April, 2018</a>
+                            </div>
+                        </div>
+                        <div class="blog-content">
+                            <a href="#" class="blog-title">Bible studies for kids</a>
+                            <p>Fusce nec ante vitae lacus aliquet vulp utate. Donec scelerisque accumsan molestie. Vestibulum ante ipsum primis.</p>
+                            <a href="#" class="readmore-btn">Read More</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- ##### Blog Area End ##### -->
